@@ -3,7 +3,7 @@
 I have created an automation bot for Amazon.com. Here is what my code simply does:
 
 - it logs in to amazon.com,
-- search for an item of your choice (in my code it is "samsung", you can change this string to any item you want),
+- searches for an item of your choice (in my code it is "samsung", you can change this string to any item you want),
 - goes to 2nd page of the results (you can change to any page number in the results),
 - selects the third item in the page (you can select any item number in the list),
 - adds this item to wishlist,
